@@ -169,7 +169,7 @@ public class ESPGame {
 		System.out.println("Date: "+ dueDate);
 		
 		
-		
+		input.close();
 		
 	
 		
