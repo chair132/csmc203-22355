@@ -62,7 +62,7 @@ public class TwoDimRaggedArrayUtility {
 		return max;
 	}
 	
-	//
+	
 	public static int getHighestInColumnIndex(double[][] data, int col) {
 		//initial values
 		double max=0;
