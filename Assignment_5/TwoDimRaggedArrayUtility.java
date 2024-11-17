@@ -1,3 +1,14 @@
+/*
+ * Class: CMSC203 22355 
+ * Instructor: David Kuijt
+ * Description: Implement a variety of functions that return a desired input
+ * Due: 11/17/2024
+ * Platform/compiler: Eclipse 
+ * I pledge that I have completed the programming assignment independently. 
+ *  I have not copied the code from a student or any source.  
+ *  I have not given my code to any student. 
+ *  Print your Name here: ___John Vu_______ 
+*/ 
 import java.io.*;
 import java.util.Scanner;
 
@@ -61,7 +72,6 @@ public class TwoDimRaggedArrayUtility {
 		}
 		return max;
 	}
-	
 	
 	public static int getHighestInColumnIndex(double[][] data, int col) {
 		//initial values

@@ -1,4 +1,14 @@
-
+/*
+ * Class: CMSC203 22355 
+ * Instructor: David Kuijt
+ * Description: Calculates the bonuses for each store
+ * Due: 11/17/2024
+ * Platform/compiler: Eclipse
+ * I pledge that I have completed the programming assignment independently. 
+ *  I have not copied the code from a student or any source.  
+ *  I have not given my code to any student. 
+ *  Print your Name here: ___John Vu_______ 
+*/ 
 public class HolidayBonus {
 	final static double HIGHEST_BONUS = 5000;
 	final static double LOWEST_BONUS  = 1000;
